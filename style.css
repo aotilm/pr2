@@ -1,0 +1,36 @@
+body {
+	position: absolute;
+	left: 300px;
+
+	background-color: #ccc0d8 ;
+	
+}
+
+
+ h1,h2 {
+ 	text-align: center;
+ 	color: blue;
+ }
+
+ p, li {
+	width: 743px;
+	
+	text-align: justify;
+	color: blue;
+}
+
+h3 {
+	color: brown;
+}
+
+.img1 {
+	text-align: right;
+}
+
+.img4 {
+	text-align: center;
+}
+
+.textcol {
+	color: brown;
+}
